@@ -1,0 +1,1602 @@
+[
+  {
+    "sprint_id": "SPR-001",
+    "task_completion_rate": 0.36,
+    "bug_count": 2,
+    "avg_task_time": 1.21,
+    "workload_index": 0.48,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-002",
+    "task_completion_rate": 0.75,
+    "bug_count": 1,
+    "avg_task_time": 6.36,
+    "workload_index": 1.44,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-003",
+    "task_completion_rate": 0.87,
+    "bug_count": 14,
+    "avg_task_time": 7.22,
+    "workload_index": 1.42,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-004",
+    "task_completion_rate": 0.93,
+    "bug_count": 15,
+    "avg_task_time": 9.84,
+    "workload_index": 0.8,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-005",
+    "task_completion_rate": 0.8,
+    "bug_count": 17,
+    "avg_task_time": 1.67,
+    "workload_index": 0.39,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-006",
+    "task_completion_rate": 0.67,
+    "bug_count": 11,
+    "avg_task_time": 5.89,
+    "workload_index": 0.32,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-007",
+    "task_completion_rate": 0.22,
+    "bug_count": 7,
+    "avg_task_time": 3.48,
+    "workload_index": 1.16,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-008",
+    "task_completion_rate": 0.68,
+    "bug_count": 4,
+    "avg_task_time": 1.7,
+    "workload_index": 1.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-009",
+    "task_completion_rate": 0.2,
+    "bug_count": 5,
+    "avg_task_time": 5.7,
+    "workload_index": 0.04,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-010",
+    "task_completion_rate": 0.22,
+    "bug_count": 16,
+    "avg_task_time": 1.07,
+    "workload_index": 0.5,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-011",
+    "task_completion_rate": 0.74,
+    "bug_count": 4,
+    "avg_task_time": 4.13,
+    "workload_index": 0.06,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-012",
+    "task_completion_rate": 0.41,
+    "bug_count": 20,
+    "avg_task_time": 5.3,
+    "workload_index": 0.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-013",
+    "task_completion_rate": 0.08,
+    "bug_count": 7,
+    "avg_task_time": 9.22,
+    "workload_index": 0.34,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-014",
+    "task_completion_rate": 0.02,
+    "bug_count": 8,
+    "avg_task_time": 2.2,
+    "workload_index": 0.03,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-015",
+    "task_completion_rate": 0.25,
+    "bug_count": 8,
+    "avg_task_time": 8.21,
+    "workload_index": 0.97,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-016",
+    "task_completion_rate": 0.83,
+    "bug_count": 4,
+    "avg_task_time": 7.74,
+    "workload_index": 0.39,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-017",
+    "task_completion_rate": 0.82,
+    "bug_count": 14,
+    "avg_task_time": 5.83,
+    "workload_index": 0.84,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-018",
+    "task_completion_rate": 0.18,
+    "bug_count": 14,
+    "avg_task_time": 9.34,
+    "workload_index": 0.69,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-019",
+    "task_completion_rate": 0.07,
+    "bug_count": 5,
+    "avg_task_time": 4.83,
+    "workload_index": 0.21,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-020",
+    "task_completion_rate": 0.37,
+    "bug_count": 0,
+    "avg_task_time": 5.17,
+    "workload_index": 0.02,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-021",
+    "task_completion_rate": 0.44,
+    "bug_count": 14,
+    "avg_task_time": 5.01,
+    "workload_index": 1.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-022",
+    "task_completion_rate": 0.61,
+    "bug_count": 18,
+    "avg_task_time": 4.49,
+    "workload_index": 1.45,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-023",
+    "task_completion_rate": 0.61,
+    "bug_count": 0,
+    "avg_task_time": 2.26,
+    "workload_index": 0.83,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-024",
+    "task_completion_rate": 0.12,
+    "bug_count": 1,
+    "avg_task_time": 8.16,
+    "workload_index": 1.27,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-025",
+    "task_completion_rate": 0.07,
+    "bug_count": 11,
+    "avg_task_time": 8.89,
+    "workload_index": 0.53,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-026",
+    "task_completion_rate": 0.91,
+    "bug_count": 5,
+    "avg_task_time": 2.36,
+    "workload_index": 1.22,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-027",
+    "task_completion_rate": 0.92,
+    "bug_count": 15,
+    "avg_task_time": 1.83,
+    "workload_index": 1.25,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-028",
+    "task_completion_rate": 0.28,
+    "bug_count": 2,
+    "avg_task_time": 2.31,
+    "workload_index": 0.54,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-029",
+    "task_completion_rate": 0.55,
+    "bug_count": 15,
+    "avg_task_time": 7.21,
+    "workload_index": 0.22,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-030",
+    "task_completion_rate": 0.59,
+    "bug_count": 18,
+    "avg_task_time": 6.38,
+    "workload_index": 1.42,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-031",
+    "task_completion_rate": 0.6,
+    "bug_count": 0,
+    "avg_task_time": 5.14,
+    "workload_index": 0.26,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-032",
+    "task_completion_rate": 0.01,
+    "bug_count": 3,
+    "avg_task_time": 6.49,
+    "workload_index": 0.94,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-033",
+    "task_completion_rate": 0.07,
+    "bug_count": 14,
+    "avg_task_time": 7.84,
+    "workload_index": 1.1,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-034",
+    "task_completion_rate": 0.1,
+    "bug_count": 2,
+    "avg_task_time": 2.13,
+    "workload_index": 0.54,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-035",
+    "task_completion_rate": 0.21,
+    "bug_count": 19,
+    "avg_task_time": 3.58,
+    "workload_index": 0.51,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-036",
+    "task_completion_rate": 0.62,
+    "bug_count": 6,
+    "avg_task_time": 1.05,
+    "workload_index": 1.08,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-037",
+    "task_completion_rate": 0.46,
+    "bug_count": 9,
+    "avg_task_time": 2.45,
+    "workload_index": 0.61,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-038",
+    "task_completion_rate": 0.83,
+    "bug_count": 5,
+    "avg_task_time": 3.99,
+    "workload_index": 0.77,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-039",
+    "task_completion_rate": 0.23,
+    "bug_count": 5,
+    "avg_task_time": 1.01,
+    "workload_index": 0.78,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-040",
+    "task_completion_rate": 0.98,
+    "bug_count": 18,
+    "avg_task_time": 3.34,
+    "workload_index": 1.31,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-041",
+    "task_completion_rate": 0.21,
+    "bug_count": 12,
+    "avg_task_time": 9.96,
+    "workload_index": 0.71,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-042",
+    "task_completion_rate": 0.15,
+    "bug_count": 18,
+    "avg_task_time": 3.86,
+    "workload_index": 1.35,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-043",
+    "task_completion_rate": 0.9,
+    "bug_count": 5,
+    "avg_task_time": 9.28,
+    "workload_index": 1.38,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-044",
+    "task_completion_rate": 0.6,
+    "bug_count": 16,
+    "avg_task_time": 8.59,
+    "workload_index": 0.83,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-045",
+    "task_completion_rate": 0.91,
+    "bug_count": 20,
+    "avg_task_time": 6.39,
+    "workload_index": 0.33,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-046",
+    "task_completion_rate": 0.64,
+    "bug_count": 18,
+    "avg_task_time": 8.86,
+    "workload_index": 0.79,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-047",
+    "task_completion_rate": 0.02,
+    "bug_count": 8,
+    "avg_task_time": 8.02,
+    "workload_index": 1.45,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-048",
+    "task_completion_rate": 0.05,
+    "bug_count": 16,
+    "avg_task_time": 5.87,
+    "workload_index": 0.27,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-049",
+    "task_completion_rate": 0.6,
+    "bug_count": 3,
+    "avg_task_time": 9.7,
+    "workload_index": 0.66,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-050",
+    "task_completion_rate": 0.68,
+    "bug_count": 1,
+    "avg_task_time": 3.95,
+    "workload_index": 1.38,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-051",
+    "task_completion_rate": 0.71,
+    "bug_count": 11,
+    "avg_task_time": 3.71,
+    "workload_index": 0.39,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-052",
+    "task_completion_rate": 0.97,
+    "bug_count": 15,
+    "avg_task_time": 2.33,
+    "workload_index": 1.2,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-053",
+    "task_completion_rate": 0.09,
+    "bug_count": 1,
+    "avg_task_time": 9.51,
+    "workload_index": 0.77,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-054",
+    "task_completion_rate": 0.32,
+    "bug_count": 0,
+    "avg_task_time": 6.79,
+    "workload_index": 0.74,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-055",
+    "task_completion_rate": 0.76,
+    "bug_count": 10,
+    "avg_task_time": 6.49,
+    "workload_index": 0.73,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-056",
+    "task_completion_rate": 0.36,
+    "bug_count": 12,
+    "avg_task_time": 8.56,
+    "workload_index": 0.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-057",
+    "task_completion_rate": 0.44,
+    "bug_count": 7,
+    "avg_task_time": 5.64,
+    "workload_index": 1.41,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-058",
+    "task_completion_rate": 0.92,
+    "bug_count": 13,
+    "avg_task_time": 4.55,
+    "workload_index": 0.05,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-059",
+    "task_completion_rate": 0.6,
+    "bug_count": 11,
+    "avg_task_time": 7.8,
+    "workload_index": 0.27,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-060",
+    "task_completion_rate": 0.41,
+    "bug_count": 2,
+    "avg_task_time": 2.84,
+    "workload_index": 0.47,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-061",
+    "task_completion_rate": 0.95,
+    "bug_count": 14,
+    "avg_task_time": 4.51,
+    "workload_index": 0.67,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-062",
+    "task_completion_rate": 0.68,
+    "bug_count": 20,
+    "avg_task_time": 1.95,
+    "workload_index": 0.34,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-063",
+    "task_completion_rate": 0.37,
+    "bug_count": 9,
+    "avg_task_time": 3.52,
+    "workload_index": 0.89,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-064",
+    "task_completion_rate": 0.96,
+    "bug_count": 9,
+    "avg_task_time": 4.15,
+    "workload_index": 0.59,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-065",
+    "task_completion_rate": 0.02,
+    "bug_count": 16,
+    "avg_task_time": 8.77,
+    "workload_index": 0.07,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-066",
+    "task_completion_rate": 0.44,
+    "bug_count": 8,
+    "avg_task_time": 1.92,
+    "workload_index": 1.13,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-067",
+    "task_completion_rate": 0.51,
+    "bug_count": 9,
+    "avg_task_time": 5.93,
+    "workload_index": 0.85,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-068",
+    "task_completion_rate": 0.01,
+    "bug_count": 14,
+    "avg_task_time": 6.25,
+    "workload_index": 1.21,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-069",
+    "task_completion_rate": 0.96,
+    "bug_count": 6,
+    "avg_task_time": 1.01,
+    "workload_index": 1.21,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-070",
+    "task_completion_rate": 0.42,
+    "bug_count": 18,
+    "avg_task_time": 7.8,
+    "workload_index": 0.83,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-071",
+    "task_completion_rate": 0.19,
+    "bug_count": 7,
+    "avg_task_time": 3.96,
+    "workload_index": 0.24,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-072",
+    "task_completion_rate": 0.41,
+    "bug_count": 2,
+    "avg_task_time": 7.37,
+    "workload_index": 0.32,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-073",
+    "task_completion_rate": 0.09,
+    "bug_count": 9,
+    "avg_task_time": 7.72,
+    "workload_index": 1.22,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-074",
+    "task_completion_rate": 0.2,
+    "bug_count": 18,
+    "avg_task_time": 2.43,
+    "workload_index": 0.1,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-075",
+    "task_completion_rate": 0.44,
+    "bug_count": 19,
+    "avg_task_time": 6.26,
+    "workload_index": 1.11,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-076",
+    "task_completion_rate": 0.82,
+    "bug_count": 17,
+    "avg_task_time": 2.98,
+    "workload_index": 0.71,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-077",
+    "task_completion_rate": 0.34,
+    "bug_count": 15,
+    "avg_task_time": 4.87,
+    "workload_index": 0.5,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-078",
+    "task_completion_rate": 0.09,
+    "bug_count": 17,
+    "avg_task_time": 4.71,
+    "workload_index": 0.81,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-079",
+    "task_completion_rate": 0.03,
+    "bug_count": 18,
+    "avg_task_time": 7.26,
+    "workload_index": 0.87,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-080",
+    "task_completion_rate": 0.92,
+    "bug_count": 14,
+    "avg_task_time": 6.11,
+    "workload_index": 0.16,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-081",
+    "task_completion_rate": 0.42,
+    "bug_count": 12,
+    "avg_task_time": 3.45,
+    "workload_index": 0.06,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-082",
+    "task_completion_rate": 0.54,
+    "bug_count": 18,
+    "avg_task_time": 5.68,
+    "workload_index": 0.08,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-083",
+    "task_completion_rate": 0.12,
+    "bug_count": 1,
+    "avg_task_time": 6.83,
+    "workload_index": 0.09,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-084",
+    "task_completion_rate": 0.8,
+    "bug_count": 4,
+    "avg_task_time": 6.09,
+    "workload_index": 0.2,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-085",
+    "task_completion_rate": 0.63,
+    "bug_count": 7,
+    "avg_task_time": 8.79,
+    "workload_index": 0.95,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-086",
+    "task_completion_rate": 0.95,
+    "bug_count": 20,
+    "avg_task_time": 3.11,
+    "workload_index": 0.26,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-087",
+    "task_completion_rate": 0.02,
+    "bug_count": 15,
+    "avg_task_time": 8.62,
+    "workload_index": 0.39,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-088",
+    "task_completion_rate": 0.01,
+    "bug_count": 13,
+    "avg_task_time": 7.58,
+    "workload_index": 0.76,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-089",
+    "task_completion_rate": 0.44,
+    "bug_count": 6,
+    "avg_task_time": 7.52,
+    "workload_index": 1.21,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-090",
+    "task_completion_rate": 0.32,
+    "bug_count": 11,
+    "avg_task_time": 1.64,
+    "workload_index": 1.45,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-091",
+    "task_completion_rate": 0.63,
+    "bug_count": 9,
+    "avg_task_time": 1.64,
+    "workload_index": 0.3,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-092",
+    "task_completion_rate": 0.92,
+    "bug_count": 10,
+    "avg_task_time": 6.82,
+    "workload_index": 0.46,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-093",
+    "task_completion_rate": 0.27,
+    "bug_count": 11,
+    "avg_task_time": 8.46,
+    "workload_index": 0.43,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-094",
+    "task_completion_rate": 0.7,
+    "bug_count": 12,
+    "avg_task_time": 7.07,
+    "workload_index": 0.5,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-095",
+    "task_completion_rate": 0.9,
+    "bug_count": 19,
+    "avg_task_time": 3.97,
+    "workload_index": 0.41,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-096",
+    "task_completion_rate": 0.34,
+    "bug_count": 3,
+    "avg_task_time": 2.32,
+    "workload_index": 1.18,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-097",
+    "task_completion_rate": 0.4,
+    "bug_count": 16,
+    "avg_task_time": 6.21,
+    "workload_index": 0.48,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-098",
+    "task_completion_rate": 0.07,
+    "bug_count": 20,
+    "avg_task_time": 1.8,
+    "workload_index": 1.03,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-099",
+    "task_completion_rate": 0.15,
+    "bug_count": 9,
+    "avg_task_time": 1.31,
+    "workload_index": 0.98,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-100",
+    "task_completion_rate": 0.88,
+    "bug_count": 11,
+    "avg_task_time": 9.07,
+    "workload_index": 0.22,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-101",
+    "task_completion_rate": 0.03,
+    "bug_count": 15,
+    "avg_task_time": 3.64,
+    "workload_index": 0.06,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-102",
+    "task_completion_rate": 0.73,
+    "bug_count": 10,
+    "avg_task_time": 5.14,
+    "workload_index": 0.8,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-103",
+    "task_completion_rate": 0.34,
+    "bug_count": 18,
+    "avg_task_time": 1.21,
+    "workload_index": 0.43,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-104",
+    "task_completion_rate": 0.81,
+    "bug_count": 4,
+    "avg_task_time": 8.02,
+    "workload_index": 0.15,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-105",
+    "task_completion_rate": 0.49,
+    "bug_count": 0,
+    "avg_task_time": 6.72,
+    "workload_index": 1.24,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-106",
+    "task_completion_rate": 0.57,
+    "bug_count": 2,
+    "avg_task_time": 8.06,
+    "workload_index": 1.03,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-107",
+    "task_completion_rate": 0.43,
+    "bug_count": 16,
+    "avg_task_time": 7.08,
+    "workload_index": 1.41,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-108",
+    "task_completion_rate": 0.4,
+    "bug_count": 6,
+    "avg_task_time": 7.11,
+    "workload_index": 0.23,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-109",
+    "task_completion_rate": 0.47,
+    "bug_count": 12,
+    "avg_task_time": 7.81,
+    "workload_index": 0.02,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-110",
+    "task_completion_rate": 0.64,
+    "bug_count": 8,
+    "avg_task_time": 3,
+    "workload_index": 0.15,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-111",
+    "task_completion_rate": 0.29,
+    "bug_count": 6,
+    "avg_task_time": 7.48,
+    "workload_index": 1.16,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-112",
+    "task_completion_rate": 0.55,
+    "bug_count": 1,
+    "avg_task_time": 3.38,
+    "workload_index": 0.61,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-113",
+    "task_completion_rate": 0.07,
+    "bug_count": 15,
+    "avg_task_time": 9.28,
+    "workload_index": 0.48,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-114",
+    "task_completion_rate": 0.63,
+    "bug_count": 17,
+    "avg_task_time": 8.31,
+    "workload_index": 0.67,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-115",
+    "task_completion_rate": 0.79,
+    "bug_count": 3,
+    "avg_task_time": 9.89,
+    "workload_index": 0.6,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-116",
+    "task_completion_rate": 0.47,
+    "bug_count": 1,
+    "avg_task_time": 6.07,
+    "workload_index": 0.83,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-117",
+    "task_completion_rate": 0.82,
+    "bug_count": 16,
+    "avg_task_time": 6.65,
+    "workload_index": 0.94,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-118",
+    "task_completion_rate": 0.2,
+    "bug_count": 19,
+    "avg_task_time": 6.18,
+    "workload_index": 0.63,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-119",
+    "task_completion_rate": 0.4,
+    "bug_count": 0,
+    "avg_task_time": 8.3,
+    "workload_index": 0.79,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-120",
+    "task_completion_rate": 0.63,
+    "bug_count": 8,
+    "avg_task_time": 6.38,
+    "workload_index": 0.57,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-121",
+    "task_completion_rate": 0.52,
+    "bug_count": 11,
+    "avg_task_time": 5.25,
+    "workload_index": 0.71,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-122",
+    "task_completion_rate": 0.52,
+    "bug_count": 7,
+    "avg_task_time": 3.47,
+    "workload_index": 0.55,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-123",
+    "task_completion_rate": 0.01,
+    "bug_count": 19,
+    "avg_task_time": 8.62,
+    "workload_index": 0.78,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-124",
+    "task_completion_rate": 0.1,
+    "bug_count": 17,
+    "avg_task_time": 8.87,
+    "workload_index": 1.31,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-125",
+    "task_completion_rate": 0.75,
+    "bug_count": 8,
+    "avg_task_time": 5.56,
+    "workload_index": 0.67,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-126",
+    "task_completion_rate": 0.27,
+    "bug_count": 15,
+    "avg_task_time": 3.67,
+    "workload_index": 1.32,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-127",
+    "task_completion_rate": 0.96,
+    "bug_count": 16,
+    "avg_task_time": 4.6,
+    "workload_index": 0.28,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-128",
+    "task_completion_rate": 0.26,
+    "bug_count": 0,
+    "avg_task_time": 5.26,
+    "workload_index": 0.02,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-129",
+    "task_completion_rate": 0.57,
+    "bug_count": 11,
+    "avg_task_time": 6.61,
+    "workload_index": 1.27,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-130",
+    "task_completion_rate": 0.4,
+    "bug_count": 14,
+    "avg_task_time": 9.23,
+    "workload_index": 0.3,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-131",
+    "task_completion_rate": 0.51,
+    "bug_count": 5,
+    "avg_task_time": 7.83,
+    "workload_index": 0.53,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-132",
+    "task_completion_rate": 0.04,
+    "bug_count": 15,
+    "avg_task_time": 6.76,
+    "workload_index": 0.93,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-133",
+    "task_completion_rate": 0.75,
+    "bug_count": 10,
+    "avg_task_time": 7.19,
+    "workload_index": 0.19,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-134",
+    "task_completion_rate": 0.09,
+    "bug_count": 1,
+    "avg_task_time": 5.12,
+    "workload_index": 0.33,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-135",
+    "task_completion_rate": 0.45,
+    "bug_count": 4,
+    "avg_task_time": 8.61,
+    "workload_index": 0.7,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-136",
+    "task_completion_rate": 0.89,
+    "bug_count": 17,
+    "avg_task_time": 8.75,
+    "workload_index": 0.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-137",
+    "task_completion_rate": 0.92,
+    "bug_count": 11,
+    "avg_task_time": 6.02,
+    "workload_index": 0.55,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-138",
+    "task_completion_rate": 0.25,
+    "bug_count": 14,
+    "avg_task_time": 8.55,
+    "workload_index": 1.22,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-139",
+    "task_completion_rate": 0.96,
+    "bug_count": 6,
+    "avg_task_time": 1.48,
+    "workload_index": 0.43,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-140",
+    "task_completion_rate": 0.04,
+    "bug_count": 20,
+    "avg_task_time": 7.32,
+    "workload_index": 0.3,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-141",
+    "task_completion_rate": 0.49,
+    "bug_count": 11,
+    "avg_task_time": 2.87,
+    "workload_index": 0.49,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-142",
+    "task_completion_rate": 0.52,
+    "bug_count": 14,
+    "avg_task_time": 8.5,
+    "workload_index": 0.46,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-143",
+    "task_completion_rate": 0.47,
+    "bug_count": 20,
+    "avg_task_time": 5.7,
+    "workload_index": 0.61,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-144",
+    "task_completion_rate": 0.14,
+    "bug_count": 5,
+    "avg_task_time": 5.34,
+    "workload_index": 0.52,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-145",
+    "task_completion_rate": 0.1,
+    "bug_count": 17,
+    "avg_task_time": 8.38,
+    "workload_index": 1.17,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-146",
+    "task_completion_rate": 0.95,
+    "bug_count": 4,
+    "avg_task_time": 3.93,
+    "workload_index": 0.02,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-147",
+    "task_completion_rate": 0.13,
+    "bug_count": 10,
+    "avg_task_time": 6.15,
+    "workload_index": 0.49,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-148",
+    "task_completion_rate": 1,
+    "bug_count": 6,
+    "avg_task_time": 6.83,
+    "workload_index": 0.56,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-149",
+    "task_completion_rate": 0.66,
+    "bug_count": 17,
+    "avg_task_time": 1.57,
+    "workload_index": 0.21,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-150",
+    "task_completion_rate": 0.6,
+    "bug_count": 9,
+    "avg_task_time": 1.14,
+    "workload_index": 1.39,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-151",
+    "task_completion_rate": 0.08,
+    "bug_count": 1,
+    "avg_task_time": 4.86,
+    "workload_index": 0.8,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-152",
+    "task_completion_rate": 0.56,
+    "bug_count": 8,
+    "avg_task_time": 1.29,
+    "workload_index": 0.24,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-153",
+    "task_completion_rate": 0.76,
+    "bug_count": 18,
+    "avg_task_time": 4.23,
+    "workload_index": 0.65,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-154",
+    "task_completion_rate": 0.13,
+    "bug_count": 3,
+    "avg_task_time": 8.23,
+    "workload_index": 0.91,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-155",
+    "task_completion_rate": 0.01,
+    "bug_count": 8,
+    "avg_task_time": 5.73,
+    "workload_index": 1.1,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-156",
+    "task_completion_rate": 0.85,
+    "bug_count": 12,
+    "avg_task_time": 4.17,
+    "workload_index": 0.11,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-157",
+    "task_completion_rate": 0.54,
+    "bug_count": 15,
+    "avg_task_time": 5.41,
+    "workload_index": 0.58,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-158",
+    "task_completion_rate": 0.04,
+    "bug_count": 20,
+    "avg_task_time": 8.33,
+    "workload_index": 0.87,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-159",
+    "task_completion_rate": 0.04,
+    "bug_count": 17,
+    "avg_task_time": 2.32,
+    "workload_index": 1.08,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-160",
+    "task_completion_rate": 0.19,
+    "bug_count": 14,
+    "avg_task_time": 4.12,
+    "workload_index": 0.46,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-161",
+    "task_completion_rate": 0.33,
+    "bug_count": 15,
+    "avg_task_time": 8.57,
+    "workload_index": 1.49,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-162",
+    "task_completion_rate": 0.86,
+    "bug_count": 5,
+    "avg_task_time": 9.75,
+    "workload_index": 1.49,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-163",
+    "task_completion_rate": 0.76,
+    "bug_count": 20,
+    "avg_task_time": 3.09,
+    "workload_index": 1.41,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-164",
+    "task_completion_rate": 0.93,
+    "bug_count": 6,
+    "avg_task_time": 8.51,
+    "workload_index": 1.11,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-165",
+    "task_completion_rate": 0.66,
+    "bug_count": 8,
+    "avg_task_time": 9.02,
+    "workload_index": 0.72,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-166",
+    "task_completion_rate": 0.07,
+    "bug_count": 9,
+    "avg_task_time": 4.97,
+    "workload_index": 0.8,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-167",
+    "task_completion_rate": 0.85,
+    "bug_count": 16,
+    "avg_task_time": 8.08,
+    "workload_index": 1.18,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-168",
+    "task_completion_rate": 0.6,
+    "bug_count": 8,
+    "avg_task_time": 7.46,
+    "workload_index": 0.31,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-169",
+    "task_completion_rate": 0.67,
+    "bug_count": 1,
+    "avg_task_time": 8.94,
+    "workload_index": 1.36,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-170",
+    "task_completion_rate": 0.12,
+    "bug_count": 0,
+    "avg_task_time": 9.14,
+    "workload_index": 0.32,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-171",
+    "task_completion_rate": 1,
+    "bug_count": 0,
+    "avg_task_time": 3.08,
+    "workload_index": 0.68,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-172",
+    "task_completion_rate": 0.56,
+    "bug_count": 7,
+    "avg_task_time": 4.91,
+    "workload_index": 0.08,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-173",
+    "task_completion_rate": 0.73,
+    "bug_count": 19,
+    "avg_task_time": 1.89,
+    "workload_index": 1.14,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-174",
+    "task_completion_rate": 0.92,
+    "bug_count": 0,
+    "avg_task_time": 5.1,
+    "workload_index": 0.37,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-175",
+    "task_completion_rate": 0.18,
+    "bug_count": 3,
+    "avg_task_time": 6.28,
+    "workload_index": 0.93,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-176",
+    "task_completion_rate": 0.94,
+    "bug_count": 2,
+    "avg_task_time": 7.64,
+    "workload_index": 0.23,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-177",
+    "task_completion_rate": 0.06,
+    "bug_count": 16,
+    "avg_task_time": 5.37,
+    "workload_index": 0.41,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-178",
+    "task_completion_rate": 0.98,
+    "bug_count": 14,
+    "avg_task_time": 6.26,
+    "workload_index": 0.18,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-179",
+    "task_completion_rate": 0.21,
+    "bug_count": 16,
+    "avg_task_time": 8.02,
+    "workload_index": 0.14,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-180",
+    "task_completion_rate": 0.69,
+    "bug_count": 8,
+    "avg_task_time": 5.06,
+    "workload_index": 1.09,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-181",
+    "task_completion_rate": 0.57,
+    "bug_count": 8,
+    "avg_task_time": 9.63,
+    "workload_index": 0.54,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-182",
+    "task_completion_rate": 0.25,
+    "bug_count": 8,
+    "avg_task_time": 2.91,
+    "workload_index": 0.19,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-183",
+    "task_completion_rate": 0.17,
+    "bug_count": 10,
+    "avg_task_time": 2.08,
+    "workload_index": 0.56,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-184",
+    "task_completion_rate": 0.56,
+    "bug_count": 10,
+    "avg_task_time": 9.88,
+    "workload_index": 0.43,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-185",
+    "task_completion_rate": 0.23,
+    "bug_count": 8,
+    "avg_task_time": 6.35,
+    "workload_index": 1.25,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-186",
+    "task_completion_rate": 0.16,
+    "bug_count": 0,
+    "avg_task_time": 3.57,
+    "workload_index": 0.18,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-187",
+    "task_completion_rate": 0.79,
+    "bug_count": 12,
+    "avg_task_time": 1.64,
+    "workload_index": 1.23,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-188",
+    "task_completion_rate": 0.7,
+    "bug_count": 17,
+    "avg_task_time": 1.53,
+    "workload_index": 0.25,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-189",
+    "task_completion_rate": 0.62,
+    "bug_count": 14,
+    "avg_task_time": 6.38,
+    "workload_index": 1.38,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-190",
+    "task_completion_rate": 0.51,
+    "bug_count": 2,
+    "avg_task_time": 6.05,
+    "workload_index": 1.35,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-191",
+    "task_completion_rate": 0.34,
+    "bug_count": 4,
+    "avg_task_time": 8.11,
+    "workload_index": 1.29,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-192",
+    "task_completion_rate": 0.36,
+    "bug_count": 11,
+    "avg_task_time": 1.19,
+    "workload_index": 0.69,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-193",
+    "task_completion_rate": 0.76,
+    "bug_count": 6,
+    "avg_task_time": 3.82,
+    "workload_index": 1.44,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-194",
+    "task_completion_rate": 0.24,
+    "bug_count": 2,
+    "avg_task_time": 4.03,
+    "workload_index": 0.8,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-195",
+    "task_completion_rate": 0.63,
+    "bug_count": 15,
+    "avg_task_time": 4.24,
+    "workload_index": 1.1,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-196",
+    "task_completion_rate": 0.79,
+    "bug_count": 3,
+    "avg_task_time": 5.86,
+    "workload_index": 0.49,
+    "is_delayed": 0
+  },
+  {
+    "sprint_id": "SPR-197",
+    "task_completion_rate": 0.9,
+    "bug_count": 20,
+    "avg_task_time": 5.01,
+    "workload_index": 1.38,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-198",
+    "task_completion_rate": 0.54,
+    "bug_count": 14,
+    "avg_task_time": 7.46,
+    "workload_index": 0.25,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-199",
+    "task_completion_rate": 0.58,
+    "bug_count": 1,
+    "avg_task_time": 7.74,
+    "workload_index": 0.77,
+    "is_delayed": 1
+  },
+  {
+    "sprint_id": "SPR-200",
+    "task_completion_rate": 0.24,
+    "bug_count": 18,
+    "avg_task_time": 1.83,
+    "workload_index": 1.24,
+    "is_delayed": 1
+  }
+]
