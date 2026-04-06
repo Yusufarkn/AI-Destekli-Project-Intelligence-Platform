@@ -4,6 +4,12 @@ require('dotenv').config();
 
 const userRoutes = require('./routes/userRoutes');
 const projectRoutes = require('./routes/projectRoutes');
+const sprintRoutes = require('./routes/sprintRoutes');
+const taskRoutes = require('./routes/taskRoutes');
+const analyticsRoutes = require('./routes/analyticsRoutes');
+const riskRoutes = require('./routes/riskRoutes');
+const mlRoutes = require('./routes/mlRoutes');
+const taskController = require('./controllers/taskController');
 
 const app = express();
 
@@ -14,6 +20,12 @@ app.use(express.json()); // JSON body parser
 // Routes
 app.use('/users', userRoutes);
 app.use('/projects', projectRoutes);
+app.use('/sprints', sprintRoutes);
+app.use('/tasks', taskRoutes);
+app.use('/analytics', analyticsRoutes);
+app.use('/risk', riskRoutes);
+app.use('/predict-delay', mlRoutes);
+app.get('/workload/:userId', taskController.getWorkload);
 
 // Base route
 app.get('/', (req, res) => {
