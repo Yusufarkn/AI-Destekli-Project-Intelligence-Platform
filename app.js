@@ -9,6 +9,7 @@ const taskRoutes = require('./routes/taskRoutes');
 const analyticsRoutes = require('./routes/analyticsRoutes');
 const riskRoutes = require('./routes/riskRoutes');
 const mlRoutes = require('./routes/mlRoutes');
+const predictionRoutes = require('./routes/predictionRoutes');
 const taskController = require('./controllers/taskController');
 
 const app = express();
@@ -25,6 +26,7 @@ app.use('/tasks', taskRoutes);
 app.use('/analytics', analyticsRoutes);
 app.use('/risk', riskRoutes);
 app.use('/predict-delay', mlRoutes);
+app.use('/prediction', predictionRoutes);
 app.get('/workload/:userId', taskController.getWorkload);
 
 // Base route
