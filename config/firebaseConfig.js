@@ -1,15 +1,18 @@
 const admin = require('firebase-admin');
+const { getFirestore } = require('firebase-admin/firestore');
 const path = require('path');
 
 // serviceAccountKey.json dosyasının yolunu belirtiyoruz
-// Bu dosya Firebase Console -> Project Settings -> Service Accounts üzerinden indirilir
 const serviceAccount = require(path.join(__dirname, '../serviceAccountKey.json'));
 
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount)
-});
+if (!admin.apps.length) {
+  admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount),
+    projectId: serviceAccount.project_id
+  });
+}
 
-const db = admin.firestore();
+const db = getFirestore();
 
 console.log('Firebase Admin SDK initialized successfully.');
 
