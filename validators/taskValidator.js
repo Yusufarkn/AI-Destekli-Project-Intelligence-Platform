@@ -1,13 +1,12 @@
 const { body } = require('express-validator');
 
 const createTaskValidator = [
-  body('sprintId').notEmpty().withMessage('sprintId zorunludur.'),
   body('title')
     .notEmpty().withMessage('Task başlığı zorunludur.')
     .isLength({ min: 3 }).withMessage('Task başlığı en az 3 karakter olmalıdır.'),
   body('status').notEmpty().withMessage('status zorunludur.').isIn(['todo', 'in_progress', 'done']).withMessage('Geçersiz statü (todo, in_progress veya done olmalı).'),
   body('estimatedHours')
-    .notEmpty().withMessage('estimatedHours zorunludur.')
+    .optional()
     .isFloat({ min: 0.1 }).withMessage('estimatedHours pozitif bir sayı olmalıdır.')
 ];
 

@@ -24,3 +24,68 @@ functions/node_modules/
 # Project Specific
 test_user.json
 sprint_data.json
+
+# Test/Debug Scripts
+add-default-team.js
+add-mock-data.js
+add-test-team.js
+app.js~
+check-db.js
+check-api-data.js
+check-current-teams.js
+check-firebase-now.js
+cleanup-firebase-data.js
+clear-firebase.js
+debug_firebase.js
+debug_id.js
+delete-alpha-team.js
+delete-ecommerce-project.js
+delete-extra-test-teams.js
+delete-modernization-project.js
+delete-test-data.js
+dump-db.js
+final-check-firebase.js
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Android Builds
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/
+
+# iOS Builds
+frontend/ios/build/
+frontend/ios/Pods/
+
+# Capacitor
+frontend/android/app/src/main/assets/public/
+
+# Android Local Properties
+frontend/android/local.properties
+local.properties
+
+# Extra Test Scripts
+check_db.js
+dump_db.js
+fix-sprint-numbers-2.js
+fix-sprint-numbers.js
+list-all-projects-and-teams.js
+list-all-projects.js
+list-all-tasks.js
+list-and-delete-duplicate-teams.js
+list-projects.js
+list-tasks.js
+restore-all-data.js
+restore-ecommerce-project.js
+seed_firebase.js
+seed_v2.js
+sil-second-alpha.js
+test-api-endpoint.js
+test-endpoints.js
+test_firebase.js
+test_firebase_real.js
+update-projects-with-test-team.js
+update-tasks-sprint-number.js
+update-tasks-with-descriptions.js

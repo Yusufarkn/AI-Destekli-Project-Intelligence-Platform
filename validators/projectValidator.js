@@ -5,8 +5,7 @@ const createProjectValidator = [
   body('name')
     .notEmpty().withMessage('Proje adı boş bırakılamaz.')
     .isLength({ min: 3 }).withMessage('Proje adı en az 3 karakter olmalıdır.'),
-  body('description')
-    .notEmpty().withMessage('Açıklama alanı boş bırakılamaz.')
+  body('description').optional()
 ];
 
 // Projeye kullanıcı atama için validasyon kuralları

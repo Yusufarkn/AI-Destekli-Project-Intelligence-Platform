@@ -31,6 +31,15 @@ class TaskService {
     return { id: taskId, ...updateData };
   }
 
+  async deleteTask(taskId) {
+    const taskRef = db.collection('tasks').doc(taskId);
+    const taskDoc = await taskRef.get();
+    if (!taskDoc.exists) {
+      throw new Error('Task bulunamadı.');
+    }
+    await taskRef.delete();
+  }
+
   async getWorkloadByUserId(userId) {
     // Sadece tamamlanmamış (done olmayan) tasklerin workload'unu hesaplamak daha mantıklıdır.
     const snapshot = await db.collection('tasks')

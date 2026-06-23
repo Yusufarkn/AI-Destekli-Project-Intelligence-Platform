@@ -6,6 +6,7 @@ const userRoutes = require('./routes/userRoutes');
 const projectRoutes = require('./routes/projectRoutes');
 const sprintRoutes = require('./routes/sprintRoutes');
 const taskRoutes = require('./routes/taskRoutes');
+const teamRoutes = require('./routes/teamRoutes');
 const analyticsRoutes = require('./routes/analyticsRoutes');
 const riskRoutes = require('./routes/riskRoutes');
 const mlRoutes = require('./routes/mlRoutes');
@@ -23,6 +24,7 @@ app.use('/users', userRoutes);
 app.use('/projects', projectRoutes);
 app.use('/sprints', sprintRoutes);
 app.use('/tasks', taskRoutes);
+app.use('/teams', teamRoutes);
 app.use('/analytics', analyticsRoutes);
 app.use('/risk', riskRoutes);
 app.use('/predict-delay', mlRoutes);
@@ -45,10 +47,10 @@ app.use((req, res) => {
   });
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = 5000;
 
-app.listen(PORT, () => {
-  console.log(`Sunucu ${PORT} portunda çalışıyor...`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Sunucu ${PORT} portunda ve tüm ağ arayüzlerinde çalışıyor...`);
 });
 
 module.exports = app;

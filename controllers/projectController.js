@@ -14,8 +14,13 @@ class ProjectController {
     }
 
     try {
-      const { name, description } = req.body;
-      const newProject = await projectService.createProject({ name, description });
+      const { name, description, teamIds, sprintCount } = req.body;
+      const newProject = await projectService.createProject({ 
+        name, 
+        description, 
+        teamIds: teamIds || [], 
+        sprintCount: sprintCount || 1 
+      });
       
       return res.status(201).json({
         success: true,
@@ -44,6 +49,34 @@ class ProjectController {
       return res.status(500).json({
         success: false,
         message: 'Projeler listelenirken bir hata oluştu.',
+        error: error.message
+      });
+    }
+  }
+
+  // Projeyi güncelleme controller'ı
+  async updateProject(req, res) {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({
+        success: false,
+        message: 'Validasyon hatası.',
+        errors: errors.array()
+      });
+    }
+
+    try {
+      const projectId = req.params.id;
+      const updatedProject = await projectService.updateProject(projectId, req.body);
+      return res.status(200).json({
+        success: true,
+        data: updatedProject,
+        message: 'Proje başarıyla güncellendi.'
+      });
+    } catch (error) {
+      return res.status(404).json({
+        success: false,
+        message: 'Proje güncellenemedi.',
         error: error.message
       });
     }

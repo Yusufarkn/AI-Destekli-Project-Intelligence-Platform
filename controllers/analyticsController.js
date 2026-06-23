@@ -35,6 +35,41 @@ class AnalyticsController {
       });
     }
   }
+
+  /**
+   * Özet analitik verileri döndüren controller metodu.
+   * @param {Object} req 
+   * @param {Object} res 
+   */
+  async getSummary(req, res) {
+    try {
+      const projectId = req.query.projectId;
+
+      // projectId kontrolü (Validation)
+      if (!projectId) {
+        return res.status(400).json({
+          success: false,
+          message: 'projectId zorunludur.'
+        });
+      }
+
+      // Özet raporunu servis katmanından al
+      const summaryData = await analyticsService.getProjectSummary(projectId);
+
+      return res.status(200).json({
+        success: true,
+        data: summaryData,
+        message: 'Özet analitik veriler başarıyla oluşturuldu.'
+      });
+
+    } catch (error) {
+      return res.status(error.message === 'Proje bulunamadı.' ? 404 : 500).json({
+        success: false,
+        message: 'Özet analitik veriler oluşturulurken bir hata oluştu.',
+        error: error.message
+      });
+    }
+  }
 }
 
 module.exports = new AnalyticsController();

@@ -1,0 +1,10 @@
+{
+	"appId": "com.example.projectriskai",
+	"appName": "Project Risk AI",
+	"webDir": "out",
+	"server": {
+		"androidScheme": "http",
+		"cleartext": true
+	},
+	"packageClassList": []
+}

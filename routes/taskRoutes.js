@@ -12,4 +12,7 @@ router.get('/', taskController.getAllTasks);
 // PUT /tasks/:id - Task güncelleme
 router.put('/:id', updateTaskValidator, taskController.updateTask);
 
+// DELETE /tasks/:id - Task silme
+router.delete('/:id', taskController.deleteTask);
+
 module.exports = router;
